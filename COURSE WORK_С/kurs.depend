@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555241512 source:c:\users\сергей\desktop\учеба\Программирование курсач\kurs\main.c
+	<stdio.h>
+	<math.h>
+	"func.h"
+	"func.c"
+
+1555193507 c:\users\сергей\desktop\учеба\Программирование курсач\kurs\func.h
+
+1555193826 c:\users\сергей\desktop\учеба\Программирование курсач\kurs\func.c
+
